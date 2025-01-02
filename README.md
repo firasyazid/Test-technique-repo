@@ -5,7 +5,7 @@
 ## How to Use
 
  ```bash
-git clone (https://github.com/firasyazid/Social-app-test-tech.git)
+git clone (https://github.com/firasyazid/Test-technique-repo.git)
 npm install
 npm start /nodemon
 
